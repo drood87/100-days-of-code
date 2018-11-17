@@ -31,3 +31,11 @@
 **Thoughts:** Arrays are a pretty hard topic to grasp, at least for me, so far. I mean I get the methods but defo have to work on how it all works together. I have to re-iterite the exercises and really understand the concepts. I dug deeper into the sort() method and had to google why and how it sorts. I found out the JS Engine uses a sort algorithm and runs several times through arrays to sort them. We pass (a, b) in arguments and then can basically tell Javascript how we want to have it sort. In my case we used the return 1, return -1 statements to let it Bubble Sort up and down. It is still not 100% clear to me but practice makes perfect I guess. I really hope I get a better understanding in those. I have to work everyday on some arrays to really get the hang of it.
 
 **Link to work:** [Array Cardio #1](https://github.com/drood87/array-cardio-1)
+
+### Day 5: November 17 2018
+
+**Today's Progress**: Day 5 with Wes Bos Javascript30 Course. Today we built an Image Gallery that relied heavily on Flexbox. If you click a panel it grows larger and text swoops in from the top and bottom. On another click the panel closes down again.
+
+**Thoughts:** Was an awesome exercise. I was able to solo the exercise without watching the video, just the intro from Wes. I used arrays, and alot of methods I learned from the cardio yesterday and from the last few days. Although I could've done way easier probably, I'm pretty stoked that I actually was able to solve it and use the array methods. Coding everyday literally is great and the habit is what makes me stronger in coding and also the best practice! GO GO GO! :)
+
+**Link to work:** [Flexbox Image Gallery](https://github.com/drood87/flex-panel-image-gallery)
