@@ -39,3 +39,14 @@
 **Thoughts:** Was an awesome exercise. I was able to solo the exercise without watching the video, just the intro from Wes. I used arrays, and alot of methods I learned from the cardio yesterday and from the last few days. Although I could've done way easier probably, I'm pretty stoked that I actually was able to solve it and use the array methods. Coding everyday literally is great and the habit is what makes me stronger in coding and also the best practice! GO GO GO! :)
 
 **Link to work:** [Flexbox Image Gallery](https://github.com/drood87/flex-panel-image-gallery)
+
+### Day 6: November 18 2018
+
+**Today's Progress**: Day 6 with Wes Bos Javascript30 Course. This project was about how to fetch data from a JSON file and how to filter data out of a massive array and dynamically look through the array and show the results on the DOM. We used RegEx and data from an external JSON file. The array contained data about Cities and states in the USA. Also population and other information. Our goal was it that on user input the array gets searched with states and cities which are matching to the entered value. It also showed the population of the cities.
+The second project I worked on was building a landing page for a client. I finished the HTML structure and also most of the CSS for the mobile version. I decided to build mobile first this time, from previous projects lessons learned.
+
+**Thoughts:** The Javascript30 course gets really interesting and a bit harder. I have to look more into Regular Expressions are deepen my understanding how fetch and promises work. I think I could take away quite some knowledge and hope to apply it on something soon.
+I am getting pretty fast in single HTML and CSS projects right now. I was able to finish most of the HTML structure for the landing page and most of the layout and CSS in an hour so two. It is just for mobile yet but I think the mobile first approach will work better out compared to desktop design first in previous iterations.
+
+**Link to work:** [Huddle Landing Page](https://github.com/drood87/huddle-landing-page)
+[City State Lookup](https://github.com/drood87/ajax-type-ahead)
