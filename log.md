@@ -49,4 +49,15 @@ The second project I worked on was building a landing page for a client. I finis
 I am getting pretty fast in single HTML and CSS projects right now. I was able to finish most of the HTML structure for the landing page and most of the layout and CSS in an hour so two. It is just for mobile yet but I think the mobile first approach will work better out compared to desktop design first in previous iterations.
 
 **Link to work:** [Huddle Landing Page](https://github.com/drood87/huddle-landing-page)
+
 [City State Lookup](https://github.com/drood87/ajax-type-ahead)
+
+### Day 7: November 19 2018
+
+**Today's Progress**: Day 7 with Wes Bos Javascript30 Course. We covered more array methods, like - .sort() .find() - and some more. Quite useful, now I jsut have to practice way more and use these methods dailies to get into it and get a better understanding of them.
+I also finished the Huddle Landing Page with repsonsive design first.
+
+**Thoughts:** I learn a shit tonne new Javascript every day now. It is quite hard to remember all of it, but I mostly get the concepts and think I can already do some cool stuff. I want to really find a little side project which I can make to manifest and cement what I've learned in my head.
+I also finished the Huddle Landing page for the Coding challenge. I must say I am getting quite fast with just pure CSS and HTML. Although I'm gettign fast I have to get way better with my CSS I think. My mobile first approach worked out pretty cool, but my CSS still looks quite messy. But I'm having more fun with Javascript at the moment :p.
+
+**Link to work:** [Huddle Landing Page](https://github.com/drood87/huddle-landing-page)
