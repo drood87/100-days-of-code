@@ -61,3 +61,11 @@ I also finished the Huddle Landing Page with repsonsive design first.
 I also finished the Huddle Landing page for the Coding challenge. I must say I am getting quite fast with just pure CSS and HTML. Although I'm gettign fast I have to get way better with my CSS I think. My mobile first approach worked out pretty cool, but my CSS still looks quite messy. But I'm having more fun with Javascript at the moment :p.
 
 **Link to work:** [Huddle Landing Page](https://github.com/drood87/huddle-landing-page)
+
+### Day 8: November 20 2018
+
+**Today's Progress**: Day 8 with Wes Bos Javascript30 Course. The project was about HTML5 Canvas and how to manipulate and do fun things with it in Javascript. So when the user press' a mousekey down it would draw something on the canvas. We used HSL colors for that and as the hsl value increased so does the line. If the hsl value reaches its max of 360 it gets set back to 0 and start anew.
+
+**Thoughts:** Canvas seems to be pretty tricky. If I want to use this I need to reference back to this project. It was a lot to take and kudos to Wes to learn and teach all that stuff. So yeah, learned a bit how to use and work with canvas in JS and make it interactive. Haven't used Canvas at all yet so it was something very new for me but really interesting. I have to keep it up!
+
+**Link to work:** [Fun with HTML5 Canvas](https://github.com/drood87/fun-with-html5-canvas)
