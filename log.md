@@ -69,3 +69,11 @@ I also finished the Huddle Landing page for the Coding challenge. I must say I a
 **Thoughts:** Canvas seems to be pretty tricky. If I want to use this I need to reference back to this project. It was a lot to take and kudos to Wes to learn and teach all that stuff. So yeah, learned a bit how to use and work with canvas in JS and make it interactive. Haven't used Canvas at all yet so it was something very new for me but really interesting. I have to keep it up!
 
 **Link to work:** [Fun with HTML5 Canvas](https://github.com/drood87/fun-with-html5-canvas)
+
+### Day 9: November 21 2018
+
+**Today's Progress**: Day 9 with Wes Bos Javascript30 Course. Today's tutorial was about some neat tricks what we can do within the Chrome Dev Tools. I also started a small project that will calculate and compare the BMI of 2 people. I did the HTML and styles and was able to get some variables declared and the function that runs the calculations is done but not yet complete.
+
+**Thoughts:** THe tips and tricks for the Dev Tools in Chrome are very neat and I hope to utilise those further in my learning. The BMI calclator is a nice and easy project to get started and get more familiar with working in the DOM. I had some struggles with the Form element. I have to read further into this how to work with Forms within Javascript. But I was happy that I could figure a bug out why my calculations wouldn't show up in the console (hint: FORM!!)
+
+**Link to work:** [BMI Calculator](https://github.com/drood87/bmi-calculator)
