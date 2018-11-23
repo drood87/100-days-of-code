@@ -77,3 +77,11 @@ I also finished the Huddle Landing page for the Coding challenge. I must say I a
 **Thoughts:** THe tips and tricks for the Dev Tools in Chrome are very neat and I hope to utilise those further in my learning. The BMI calclator is a nice and easy project to get started and get more familiar with working in the DOM. I had some struggles with the Form element. I have to read further into this how to work with Forms within Javascript. But I was happy that I could figure a bug out why my calculations wouldn't show up in the console (hint: FORM!!)
 
 **Link to work:** [BMI Calculator](https://github.com/drood87/bmi-calculator)
+
+### Day 10: November 22 2018
+
+**Today's Progress**: Day 10 with Wes Bos Javascript30 Course. I started a project which lets you check several boxes within a range what you checked while holding down the shift key. I started it without watching Wes' Tutorial. I was able to find out that there is a method .shiftKey. I could get the index of the checked items. I still need to find out how to save the index and get the items in between the two checked boxed to be checked then.
+
+**Thoughts:** It was pretty hard for me to do on my own. But I could make a slow progress and played with some methods and just went the trial and error path. Some things worked out but mostly not yet. Also I was sick. :D But I think with some more persistence and maybe having a sneak at the tutorial I'll figure it out somehow.
+
+**Link to work:** [Check multiple boxes with shift](https://github.com/drood87/check-multiple-boxes-with-shift)
