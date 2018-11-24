@@ -85,3 +85,11 @@ I also finished the Huddle Landing page for the Coding challenge. I must say I a
 **Thoughts:** It was pretty hard for me to do on my own. But I could make a slow progress and played with some methods and just went the trial and error path. Some things worked out but mostly not yet. Also I was sick. :D But I think with some more persistence and maybe having a sneak at the tutorial I'll figure it out somehow.
 
 **Link to work:** [Check multiple boxes with shift](https://github.com/drood87/check-multiple-boxes-with-shift)
+
+### Day 11: November 23 2018
+
+**Today's Progress**: Day 11 with Wes Bos Javascript30 Course. I continued the project of yesterday and finished the Checkbox exercise. So if you check one item in the list now and hold down the shift key and check another item, all item's in between will be checked aswell. I learned about flag variables and learned about the .shiftKey method that you can append to an event.
+
+**Thoughts:** I wasn't able to finish everything on my own but was able to get the most of the thoughts right and some functionality. So that's something. I hope that it gets better with grinding on everyday, that I'll be able to solve complex things by myself and improve my googling ability.
+
+**Link to work:** [Check multiple boxes with shift](https://github.com/drood87/check-multiple-boxes-with-shift)
