@@ -103,3 +103,11 @@ I started the design with HTML and CSS, using flexbox.
 **Thoughts:** The Javascript30 is getting pretty tough for my knowledge but it's amazing what we can do with just these technologies. I will try to get a bit more familiar with more the basics and do the coding challenges from the other Udemy course to double down on the basics and then incrementely do more complicated stuff. I have fun working with the DOM and really have to learn to concentrate on one project instead of trying to do all at once.
 
 **Link to work:** [Video Player](https://github.com/drood87/custom-html5-video-player)
+
+### Day 14: November 26 2018
+
+**Today's Progress**: Continued working on the coding challenge of the average winner. Implemented a regular Expression(yay) and some of the array methods. So far it works great. I used the animate.css library to animate my image and my Regular Expression validates that the user only inputs numbers and not any characters.
+
+**Thoughts:** Wow, today was actually pretty great. I'm getting really addicted to it and had some great successes with my little playground. I think I get the hang of the array methods and wrote reusable functions and a validation with my RegEx. Every day I feel more pumped! :)
+
+**Link to work:** [Average Winner](https://github.com/drood87/average-winner)
