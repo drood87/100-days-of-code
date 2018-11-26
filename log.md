@@ -93,3 +93,13 @@ I also finished the Huddle Landing page for the Coding challenge. I must say I a
 **Thoughts:** Today I took a day off of hardcore coding and got a bit familiar with npm and dependencies and some nice packages what we can use from npm. It was nice to get the head off a little bit and learn something new exciting. Can't wait to play around more with it.
 
 **Link to work:** [My Github](https://github.com/drood87/)
+
+### Day 13: November 25 2018
+
+**Today's Progress**: We build a custom HTML5 video player with Javascript. It allows you to scrub through the video, change volume and videospeed.
+Also, I started a coding challenge which allows you to calculate the average score of three different teams from three different games and then tells us who won in average.
+I started the design with HTML and CSS, using flexbox.
+
+**Thoughts:** The Javascript30 is getting pretty tough for my knowledge but it's amazing what we can do with just these technologies. I will try to get a bit more familiar with more the basics and do the coding challenges from the other Udemy course to double down on the basics and then incrementely do more complicated stuff. I have fun working with the DOM and really have to learn to concentrate on one project instead of trying to do all at once.
+
+**Link to work:** [Video Player](https://github.com/drood87/custom-html5-video-player)
