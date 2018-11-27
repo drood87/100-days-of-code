@@ -111,3 +111,11 @@ I started the design with HTML and CSS, using flexbox.
 **Thoughts:** Wow, today was actually pretty great. I'm getting really addicted to it and had some great successes with my little playground. I think I get the hang of the array methods and wrote reusable functions and a validation with my RegEx. Every day I feel more pumped! :)
 
 **Link to work:** [Average Winner](https://github.com/drood87/average-winner)
+
+### Day 15: November 27 2018
+
+**Today's Progress**: Still kept on working on my little average winner app. Haven't found the solution to my RegEx problem yet, but moved on to something a bit easier and actually played around with DOM and some animations. I want to finish this over the weekend and move on to something new, but this exercise already taught me quite a few things.
+
+**Thoughts:** A lot of googling and a lot of learning. I'm feeling great and doing actually projects defs stretch my knowlegde and I'm feeling I'm moving forward. After finally getting the basics into my head I am feeling somehow confident to work with Javascript and it's really fun. It's the best part of the day when I get back home from work and can do some coding. I quit playing WoW now to concentrate more on coding.
+
+**Link to work:** [Average Winner](https://github.com/drood87/average-winner)
