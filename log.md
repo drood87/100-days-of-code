@@ -119,3 +119,11 @@ I started the design with HTML and CSS, using flexbox.
 **Thoughts:** A lot of googling and a lot of learning. I'm feeling great and doing actually projects defs stretch my knowlegde and I'm feeling I'm moving forward. After finally getting the basics into my head I am feeling somehow confident to work with Javascript and it's really fun. It's the best part of the day when I get back home from work and can do some coding. I quit playing WoW now to concentrate more on coding.
 
 **Link to work:** [Average Winner](https://github.com/drood87/average-winner)
+
+### Day 16: November 28 2018
+
+**Today's Progress**: Somehow finished the average-winner app. Still couldn't finish the validation process but will try that at a later stage. I did another Javascript30 challenge which would listen to a specific keysequence and display then unicorns. Also I started my own portfolio finally and added the header structure.
+
+**Thoughts:** What an insane day of coding. The average-winner app works as intendet even though I still could not wrap my head around the validation process but will get back to that. I feel good that I finally started my own portfolio, which will be my mission over the next few weeks to finish that up.
+
+**Link to work:** [Average Winner](https://github.com/drood87/average-winner)
