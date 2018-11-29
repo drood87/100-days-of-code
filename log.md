@@ -127,3 +127,11 @@ I started the design with HTML and CSS, using flexbox.
 **Thoughts:** What an insane day of coding. The average-winner app works as intendet even though I still could not wrap my head around the validation process but will get back to that. I feel good that I finally started my own portfolio, which will be my mission over the next few weeks to finish that up.
 
 **Link to work:** [Average Winner](https://github.com/drood87/average-winner)
+
+### Day 17: November 28 2018
+
+**Today's Progress**: Did the next challenge of Javascript30. Todays challenge was a dummy site which would slide images in as you scroll down or up. There were some nifty tricks with the window object and some math involved how to get the correct hights while sliding up and down. Alos continued working on my portfolio. I added some styles for the hero section and started the layout for the desktop version.
+
+**Thoughts:** I learned some more tricks on how to work with the window object and how to calculate it whiole scrolling. Also how to avoid calling functions too often while scrolling with a debounce function which just allows to run the function every 500ms or so. My portfolio project goes really slow as I'm never happy with my own design, especially when seeing other peoples portfolios. I have to be more confident in my skills and just keep on going. In the end what just counts is that I get a site online and then I can still change things up as I level up my skills.
+
+**Link to work:** [Slide in on scroll](https://github.com/drood87/slide-in-on-roll)
