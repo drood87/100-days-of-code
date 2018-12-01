@@ -86,7 +86,7 @@ I also finished the Huddle Landing page for the Coding challenge. I must say I a
 
 **Link to work:** [Check multiple boxes with shift](https://github.com/drood87/check-multiple-boxes-with-shift)
 
-### Day 12: November 24 2018
+### Day 12: November 23 2018
 
 **Today's Progress**: I learned about npm packages and had my first real contact to .json files.I could add scripts in the .json that would run scripts from the terminal. I learned a little about how to import packages from npm and what dependencies in a project are. What are the benefits (re-usable code from other Dev's so we don't have to) and disadvantages (bloated projects, large file sizes, alot of dependencies are hard to maintain) of it.
 
@@ -94,7 +94,7 @@ I also finished the Huddle Landing page for the Coding challenge. I must say I a
 
 **Link to work:** [My Github](https://github.com/drood87/)
 
-### Day 13: November 25 2018
+### Day 13: November 24 2018
 
 **Today's Progress**: We build a custom HTML5 video player with Javascript. It allows you to scrub through the video, change volume and videospeed.
 Also, I started a coding challenge which allows you to calculate the average score of three different teams from three different games and then tells us who won in average.
@@ -104,7 +104,7 @@ I started the design with HTML and CSS, using flexbox.
 
 **Link to work:** [Video Player](https://github.com/drood87/custom-html5-video-player)
 
-### Day 14: November 26 2018
+### Day 14: November 25 2018
 
 **Today's Progress**: Continued working on the coding challenge of the average winner. Implemented a regular Expression(yay) and some of the array methods. So far it works great. I used the animate.css library to animate my image and my Regular Expression validates that the user only inputs numbers and not any characters.
 
@@ -112,7 +112,7 @@ I started the design with HTML and CSS, using flexbox.
 
 **Link to work:** [Average Winner](https://github.com/drood87/average-winner)
 
-### Day 15: November 27 2018
+### Day 15: November 26 2018
 
 **Today's Progress**: Still kept on working on my little average winner app. Haven't found the solution to my RegEx problem yet, but moved on to something a bit easier and actually played around with DOM and some animations. I want to finish this over the weekend and move on to something new, but this exercise already taught me quite a few things.
 
@@ -120,7 +120,7 @@ I started the design with HTML and CSS, using flexbox.
 
 **Link to work:** [Average Winner](https://github.com/drood87/average-winner)
 
-### Day 16: November 28 2018
+### Day 16: November 27 2018
 
 **Today's Progress**: Somehow finished the average-winner app. Still couldn't finish the validation process but will try that at a later stage. I did another Javascript30 challenge which would listen to a specific keysequence and display then unicorns. Also I started my own portfolio finally and added the header structure.
 
@@ -130,8 +130,24 @@ I started the design with HTML and CSS, using flexbox.
 
 ### Day 17: November 28 2018
 
-**Today's Progress**: Did the next challenge of Javascript30. Todays challenge was a dummy site which would slide images in as you scroll down or up. There were some nifty tricks with the window object and some math involved how to get the correct hights while sliding up and down. Alos continued working on my portfolio. I added some styles for the hero section and started the layout for the desktop version.
+**Today's Progress**: Did the next challenge of Javascript30. Todays challenge was a key sequence detector
 
-**Thoughts:** I learned some more tricks on how to work with the window object and how to calculate it whiole scrolling. Also how to avoid calling functions too often while scrolling with a debounce function which just allows to run the function every 500ms or so. My portfolio project goes really slow as I'm never happy with my own design, especially when seeing other peoples portfolios. I have to be more confident in my skills and just keep on going. In the end what just counts is that I get a site online and then I can still change things up as I level up my skills.
+**Thoughts:** Javascript is fun! I mixed up my days a little and don't know what day I forgot to log. Oops.. will continue properly on the 1st of December
 
-**Link to work:** [Slide in on scroll](https://github.com/drood87/slide-in-on-roll)
+**Link to work:** [Key Sequence Detector](https://github.com/drood87/key-sequence-detection)
+
+### Day 18: November 30 2018
+
+**Today's Progress**: Project about Reference vs copy of Objects and Arrays
+
+**Thoughts:** Javascript is fun! I mixed up my days a little and don't know what day I forgot to log. Oops.. will continue properly on the 1st of December
+
+**Link to work:** [Key Sequence Detector](https://github.com/drood87/key-sequence-detection)
+
+### Day 19: December 1 2018
+
+**Today's Progress**: Build an app today which would save data in the local storage and remember if an item was checked on refreshing the site or not.
+
+**Thoughts:** That was a bit complicated and defo have to review it and also have to implement some additional functions to strenghthen the new found knowledge.
+
+**Link to work:** [Local Storage and Event Delegation](https://github.com/drood87/local-storage-and-event-delegation)
