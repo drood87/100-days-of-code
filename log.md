@@ -151,3 +151,12 @@ I started the design with HTML and CSS, using flexbox.
 **Thoughts:** That was a bit complicated and defo have to review it and also have to implement some additional functions to strenghthen the new found knowledge.
 
 **Link to work:** [Local Storage and Event Delegation](https://github.com/drood87/local-storage-and-event-delegation)
+
+### Day 20: December 5 2018
+
+**Today's Progress**: Today's exercise was on how to animate a box shadow on a text with Javascript and CSS. The Box shadow will move with the movement of the mousecursor.
+Also I made a little progress on my portfolio. I am trying to make the hero section nice and tidy.
+
+**Thoughts:** Doing my portfolio is really hard as I am never happy with the design and what I do. I have to get more confident and persistent in my doing and keep on going. The portfolio is probs the most important thing to publish and work on at the moment.
+
+**Link to work:** [CSS Mouseshadow move](https://github.com/drood87/mouse-move-effect)
