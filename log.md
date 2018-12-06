@@ -160,3 +160,11 @@ Also I made a little progress on my portfolio. I am trying to make the hero sect
 **Thoughts:** Doing my portfolio is really hard as I am never happy with the design and what I do. I have to get more confident and persistent in my doing and keep on going. The portfolio is probs the most important thing to publish and work on at the moment.
 
 **Link to work:** [CSS Mouseshadow move](https://github.com/drood87/mouse-move-effect)
+
+### Day 21: December 6 2018
+
+**Today's Progress**: I worked on some array exercises today. The exercise was from Wes Bos JS30 course. I attempted to do it on my own and I succeeded!! :) We have an array with Band names and some with articles(`the`, `a`, `an`). The goal was to sort the array but not with their preceeding articles. After the sort the array should be displayed on the DOM in a list element.
+
+**Thoughts:** That was pretty cool. It took me around 3 hours to finish the exercise and a lot of StackOverflowing and googling. But in the end I was successful and it feels damn great. Although my solution was a bit longer then Wes' solution but what matters is that I could finish this on my own.
+
+**Link to work:** [Sorting Band names without article](https://github.com/drood87/sorting-band-names-withour-articles)
