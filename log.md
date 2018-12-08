@@ -168,3 +168,20 @@ Also I made a little progress on my portfolio. I am trying to make the hero sect
 **Thoughts:** That was pretty cool. It took me around 3 hours to finish the exercise and a lot of StackOverflowing and googling. But in the end I was successful and it feels damn great. Although my solution was a bit longer then Wes' solution but what matters is that I could finish this on my own.
 
 **Link to work:** [Sorting Band names without article](https://github.com/drood87/sorting-band-names-withour-articles)
+
+### Day 22: December 7 2018
+
+**Today's Progress**: Continued to work on my portfolio. I re-designed the hero section and implemented a parrallax effect on scrolling. On my name the text-shadow will subtle move with the user's mouse movement and I decided for a smooth gradient background.
+Another tutorial I did was about on how to add up different lengths of videos and represent them in the right format.
+
+**Thoughts:** My portfolio takes some shape and I'm pretty happy it does. I really like the gradient background and the moving text-shadow is pretty cool. Next I have to decide what I'll use for the about me section.
+
+**Link to work:** [Tally String times](https://github.com/drood87/tally-string-times)
+
+### Day 23: December 8 2018
+
+**Today's Progress**: Today's tutorial was some playing around with the Webcam and how to apply filters on it. The video from the webcam gets drawn on the canvas element in HTML. You can take snapshots of the input and even download them in .jpeg format.
+
+**Thoughts:** That was pretty complicated and I have to back reference to it and try to analyze it a bit more and get a better understanding of canvas in HTML and how to work with it properly.
+
+**Link to work:** [Webcam Photo Booth](https://github.com/drood87/webcam-photo-booth)
