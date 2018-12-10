@@ -185,3 +185,19 @@ Another tutorial I did was about on how to add up different lengths of videos an
 **Thoughts:** That was pretty complicated and I have to back reference to it and try to analyze it a bit more and get a better understanding of canvas in HTML and how to work with it properly.
 
 **Link to work:** [Webcam Photo Booth](https://github.com/drood87/webcam-photo-booth)
+
+### Day 24: December 9 2018
+
+**Today's Progress**: We developed a speech recogniztion app today. This is native to Javascript. So now we can speak into our mic and what we said we be displayed on the DOM. The app creates a new `p` element when we stop talking and append the new `p` tag to the new sentence.
+
+**Thoughts:** The native speech recogniztion from Javascript is really cool. It is not too compplicated and we can do a lot of fun stuff with it.
+
+**Link to work:** [Speech recogniztion](https://github.com/drood87/speech-recognizition-js)
+
+### Day 25: December 10 2018
+
+**Today's Progress**: Today's exercise was a compass and speedometer, purely with Javascript. The app will take your position and show in a compass where north is and also display the speed you are walking/driving with.
+
+**Thoughts:** I couldn't see too much unfortunately as I could not emulate walking with my PC. But it seems not too hard and it is just one easy method to actually access the location from your PC or phone.
+
+**Link to work:** [Geolocation](https://github.com/drood87/geolocation-based-speedometer-and-compass)
