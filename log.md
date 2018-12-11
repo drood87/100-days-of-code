@@ -194,10 +194,10 @@ Another tutorial I did was about on how to add up different lengths of videos an
 
 **Link to work:** [Speech recogniztion](https://github.com/drood87/speech-recognizition-js)
 
-### Day 25: December 10 2018
+### Day 26: December 10 2018
 
-**Today's Progress**: Today's exercise was a compass and speedometer, purely with Javascript. The app will take your position and show in a compass where north is and also display the speed you are walking/driving with.
+**Today's Progress**: Did an exercise that allows Follow along links. Also I started learning some React at the long last. About on how to import components and style and reduce code.
 
-**Thoughts:** I couldn't see too much unfortunately as I could not emulate walking with my PC. But it seems not too hard and it is just one easy method to actually access the location from your PC or phone.
+**Thoughts:** React looks super interesting and can't wait to dive deeper in this framework. The work on my portfolio is still slow but I get some ideas and hope I get somewhere on the weekend and over the Christmas break.
 
-**Link to work:** [Geolocation](https://github.com/drood87/geolocation-based-speedometer-and-compass)
+**Link to work:** [Follow along links](https://github.com/drood87/follow-along-links)
