@@ -221,8 +221,10 @@ I'm still working on my portfolio and trying different style designs.
 
 ### Day 29: December 13 2018
 
-**Today's Progress**: Did an exercise that allows Follow along links. Also I started learning some React at the long last. About on how to import components and style and reduce code.
+**Today's Progress**: I build a sticky nav bar with Javascript. As the user scrolls down the function will detect when the nav bar hits the top of the window and add a class of fixed-nav and makes it sticky. I had to make sure that the element underneath the nav bar adds extra padding as soon as the nav bar is fixed to the top as it would not take up any more space(behaves like it doesn't exist). We add extra padding to the element equals to the height of the navbar to mitigate the "jumping" of it.
+I looked into more React and learned about state of components and how to pass them as props to different components.
 
-**Thoughts:** React looks super interesting and can't wait to dive deeper in this framework. The work on my portfolio is still slow but I get some ideas and hope I get somewhere on the weekend and over the Christmas break.
+**Thoughts:** The sticky navbar exercise was really useful and I will probably implement it in my own portfolio. The code is pretty simple and easy to implement.
+React is pretty complicated with state,props,components. I think I have to work more on my JS skills to fully grasp the React syntax and how it works under the hood.
 
 **Link to work:** [Sticky Nav](https://github.com/drood87/sticky-nav)
