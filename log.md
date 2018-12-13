@@ -201,3 +201,28 @@ Another tutorial I did was about on how to add up different lengths of videos an
 **Thoughts:** React looks super interesting and can't wait to dive deeper in this framework. The work on my portfolio is still slow but I get some ideas and hope I get somewhere on the weekend and over the Christmas break.
 
 **Link to work:** [Follow along links](https://github.com/drood87/follow-along-links)
+
+### Day 27: December 11 2018
+
+**Today's Progress**: Coded an app that uses the geolocation API from Javascript. This shows a compass that points to north and also shows the speed you're walking/ driving. The code is fairly short. We have a navigator.geolocation.watchPosition object which outputs the coords data.
+
+**Thoughts:** I could not really test it out as I could not use any emulator with the project.
+
+**Link to work:** [Geolocation based Speedometer and Compass](https://github.com/drood87/geolocation-based-speedometer-and-compass)
+
+### Day 28: December 12 2018
+
+**Today's Progress**: Worked with the Javascript Speech-Synthesis API. We can type in a textbox whatever we want and then choose what voice, pitch and speed it gets read out. Our OS provides us with some native voices we can work with. The .getVoices() method can populate an array with the voices and then we can put these into a dropdown for the user to choose from.
+I'm still working on my portfolio and trying different style designs.
+
+**Thoughts:** The work for my portfolio is a real drag at the moment and harder then expected. I'm getting inspiration from several different portfolios and trying to implement them. I really want to work with soft bright colors but without having it looking childish or unprofessional.
+
+**Link to work:** [Speech Synthesis](https://github.com/drood87/speech-synthesis)
+
+### Day 29: December 13 2018
+
+**Today's Progress**: Did an exercise that allows Follow along links. Also I started learning some React at the long last. About on how to import components and style and reduce code.
+
+**Thoughts:** React looks super interesting and can't wait to dive deeper in this framework. The work on my portfolio is still slow but I get some ideas and hope I get somewhere on the weekend and over the Christmas break.
+
+**Link to work:** [Sticky Nav](https://github.com/drood87/sticky-nav)
