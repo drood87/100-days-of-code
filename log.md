@@ -228,3 +228,13 @@ I looked into more React and learned about state of components and how to pass t
 React is pretty complicated with state,props,components. I think I have to work more on my JS skills to fully grasp the React syntax and how it works under the hood.
 
 **Link to work:** [Sticky Nav](https://github.com/drood87/sticky-nav)
+
+### Day 30: December 14 2018
+
+**Today's Progress**: Learned about bubbling, propagation, capture and once. If we would have several HTML elements nested in each other and add event listeners to all elements it would bubble up all the way in the document and fire all events at once. If we would want to traverse down in the DOM, instead of bubbling up, we can use a third argument on an event listener called `capture`. `divs.forEach(div => div.addEventListener("click", myFunction, { capture: false }));`
+This will then start from the top most element wich has an event listener attached.
+If we want to avoid bubbling all together we would use `e.stopPropagation()`. This will just then target the clicked element and stop bubbling. Another useful method is `once: true/false` which we can also pass as a third argument on an event listener. This will fire the event then once and then unbind itself. This might be a useful thing if we had a button and we want the user just to click it once instead of multiple time(shopping Card for example).
+
+**Thoughts:** These little methods are useful for some edgecases and might be helpful for some things. I understood the principles so far and I reckon I did a half decent job in explaining them to myself to remember it. I want to recapture the previous JS30 lessons and also write a little Lessons learned about each topic.
+
+**Link to work:** [Bubbling, Propagation etc](https://github.com/drood87/event-capture-bubbling-concepts)
