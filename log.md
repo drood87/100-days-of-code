@@ -254,3 +254,11 @@ If we want to avoid bubbling all together we would use `e.stopPropagation()`. Th
 **Thoughts:** Another project I can implement in my Portfolio at some point. My portfolio slowly gets somewhere. I could figure some small issues out and getting happier with the design. I really hope I am able to finish the site off still this year and put it online.
 
 **Link to work:** [Click and drag](https://github.com/drood87/click-and-drag)
+
+### Day 33: December 16 2018
+
+**Today's Progress**: Today I build a custom Video Speed Controller. I used the event handler of mousemove. So as soon as the event of a mousemoce occurs within the Speed Controller element we either increase or decrease the speed of the played video. We set variables of min and max speed to 0.4x and 4x, respectively. The HTML for the speedcontroller is not that fancy. It just has a `<div>` wrapped in another `<div>`. THe wrapper div is the full length of the bar whereas the inner div displays the actual speed of the video. So we grab the outer div and inner div and the video element within JS and put it into variables. We then create the event handler of mousemove and run the function `handleMove` and pass it the `event` as argument for the mousemove. In order to check where the user is moving the bar along the y axis we calculate the `e.pageY - this.offsetTop`. We do it like this cause we want to make sure we have the right position if there are any margins or paddings on the element(this.offsetTop). Then we just calculate the percentage of the playback speed `y / this.offsetTop`. After all the calculations we make sure the element gets styled properly according to our mouse movement and set the video playback rate to what we have calculated.
+
+**Thoughts:** TO be honest I'm not really comfortable with all the maths involved with these exercises but I get the idea and how the things work. The code for that prototype is not all too hard and just a couple of lines Javascript. So that's pretty cool.
+
+**Link to work:** [Video Speed Controller](https://github.com/drood87/video-speed-controller)
