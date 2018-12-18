@@ -255,10 +255,18 @@ If we want to avoid bubbling all together we would use `e.stopPropagation()`. Th
 
 **Link to work:** [Click and drag](https://github.com/drood87/click-and-drag)
 
-### Day 33: December 16 2018
+### Day 33: December 17 2018
 
 **Today's Progress**: Today I build a custom Video Speed Controller. I used the event handler of mousemove. So as soon as the event of a mousemoce occurs within the Speed Controller element we either increase or decrease the speed of the played video. We set variables of min and max speed to 0.4x and 4x, respectively. The HTML for the speedcontroller is not that fancy. It just has a `<div>` wrapped in another `<div>`. THe wrapper div is the full length of the bar whereas the inner div displays the actual speed of the video. So we grab the outer div and inner div and the video element within JS and put it into variables. We then create the event handler of mousemove and run the function `handleMove` and pass it the `event` as argument for the mousemove. In order to check where the user is moving the bar along the y axis we calculate the `e.pageY - this.offsetTop`. We do it like this cause we want to make sure we have the right position if there are any margins or paddings on the element(this.offsetTop). Then we just calculate the percentage of the playback speed `y / this.offsetTop`. After all the calculations we make sure the element gets styled properly according to our mouse movement and set the video playback rate to what we have calculated.
 
 **Thoughts:** TO be honest I'm not really comfortable with all the maths involved with these exercises but I get the idea and how the things work. The code for that prototype is not all too hard and just a couple of lines Javascript. So that's pretty cool.
 
 **Link to work:** [Video Speed Controller](https://github.com/drood87/video-speed-controller)
+
+### Day 34: December 18 2018
+
+**Today's Progress**: Todays project was a Countdown Timer. We can either choose one of the pre defined times or enter a custom time in minutes. This will then display a countdown as well as the time the countdown has run down. For this to work we need 4 functions. One that will take care of the actual timer which will take the seconds as an argument. First we will clear any running interval (in case there's already a timer running so we don't overlap several timers) and second we will run another function which will display the time left and invoke it straight away to make sure we start with the time we actual want, cause the `setInterval` will just start running after the first second already has passed. Then we have two more functions which will start the timer when we press one of the pre defined buttons with a time already associated with it. And the other function which will display the end Time and takes a timestamp as an argument. Timestamp will make sure we get an actual time instead of the 21328764 number that we get from `new Date()`.
+
+**Thoughts:** This time my biggest takeaway was actually how to properly display the right time format (hh:mm:ss). It's easy with a simple ternary operator `${minutes}:${remainderSeconds < 10 ? "0" : ""}${remainderSeconds}`. I tried it before with an if statement and that failed, so I'm happy I could learn this and hopefully remember it the next time around. The next takeaway is, in order to clear a running interval we have to assign it to a variable and then we can call `clearInterval(variableOfRunningInterval)` to stop the Interval from executing.
+
+**Link to work:** [Countdown](https://github.com/drood87/countdown-clock)
