@@ -279,3 +279,20 @@ Another thing I learned was about the event method itself. A property of it is `
 **Thoughts:** The tip calculator really had some hard brain teasers in it and I could put some new learned methods and API's to use like the spread operator and template literals. The biggest challenge was to actually remove the Dollar Sign from the Array, convert it to Numbers and then later put the dollar sign back onto the final Results. It was some googling involved but I was actually able to solve it mostly on my own. That was super motivating and kept me going to actually go above and beyond the scope of the exercise. I probably could trim the code further with some kind of function that actually handles the return value. I might be able to write it and then just pass the percent value in to calculate with. That will save some lines of code.
 
 **Link to work:** [Tip Calculator](https://github.com/drood87/tip-calculator)
+
+### Day 36: December 20 2018
+
+**Today's Progress**: I started to dig deeper into CSS and into some animations. I started to build the Natours, a fictional outdoors adventure company, landingpage. It started off pretty simple on how to do an overlay effect properly. It is possible to have several values on the `background-image` property. The way we do it: `background-image: linear-gradient(to top right, #fff, #fff), url(./image/test.jpg)` This syntax would put a gradient on top of the background image. I also learned more about the `clip-path` property. The clip-path takes four values `clip-path: (top-left x y, top right x y, bottom right x y, bottom left x y)` we basically specify on what position on the x/y axis we want this corner to be. We can pass it all kind of values(em, %, vh, vw ...).
+
+**Thoughts:** I already could implement some things in my portfolio. I rebootet the portfolio again in favor for cleaner and easier code. The course already taught me quite some useful things(clip-path). I laos learned how to center something without having to use flexbox or grid. I can play with absolute positioning and then use the top, bottom and transform, translate properties.
+
+**Link to work:** [Natours](https://github.com/drood87/natours)
+
+### Day 37: December 21 2018
+
+**Today's Progress**: I continued to work on the Natours project. I implemented some animations and got introduced to the `@keyframes` property. We can specify what a specific element at any given step with the keyframes. The syntax is `@keyframes <nameAnimation> { 0% { opacity: 0; transform: translateY(100px) } 100% { opacity: 1; transform: translateY(0) } }`
+We declare an animation with the @keyframes keyword followed by the animation name which serves as a variable which we then can implement in any given CSS rule. If we want an element to perform this animation we call it just like this: `animation: <nameAnimation> duration iteration-count delay timing-function`. Thus, we don't even need to use any Javascript for this.
+
+**Thoughts:** I love CSS animation and how easy it is to create some cool animations without having to use any javascript and keeping our code clean and simple.
+
+**Link to work:** [Natours](https://github.com/drood87/natours)
