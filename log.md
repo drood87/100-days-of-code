@@ -296,3 +296,11 @@ We declare an animation with the @keyframes keyword followed by the animation na
 **Thoughts:** I love CSS animation and how easy it is to create some cool animations without having to use any javascript and keeping our code clean and simple.
 
 **Link to work:** [Natours](https://github.com/drood87/natours)
+
+### Day 38: December 22 2018
+
+**Today's Progress**: Continued with the Natours Project and started using SASS in it. I refactored the code to match it to SCSS and BEM conventions. I added a new folder tree and new file structure. I worked after the 7-1 principle. This rule states to create up to 7 folders that get later imported into our main.scss file. We are doing this to keep our code DRY and re-usable. I added mixins, created the grid we are using throughout the page with a classic float and clearfix principle. I implemented what I've learned in my own portfolio to strengthen what I just learned and make my code better readable.
+
+**Thoughts:** SASS really makes CSS writing more fun. The nesting and mixins work really well and intuitiv. Creating different folders and files for our different components/layout etc, create a whole new dimension and fun in CSS. My CSS gets better readable, easier to maintain and also more fun to work with. I can't wait to implement all of my new found knowledge into my own projects.
+
+**Link to work:** [Natours](https://github.com/drood87/natours)
