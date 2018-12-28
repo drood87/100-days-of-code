@@ -304,3 +304,11 @@ We declare an animation with the @keyframes keyword followed by the animation na
 **Thoughts:** SASS really makes CSS writing more fun. The nesting and mixins work really well and intuitiv. Creating different folders and files for our different components/layout etc, create a whole new dimension and fun in CSS. My CSS gets better readable, easier to maintain and also more fun to work with. I can't wait to implement all of my new found knowledge into my own projects.
 
 **Link to work:** [Natours](https://github.com/drood87/natours)
+
+### Day 39 - 41: December 23 2018 - December 28 2018
+
+**Today's Progress**: The past 3 days I kept on working on the Natours project and parallel on my Portfolio. The stuff I learned for the Natours project could be used in my portfolio. I used flipping cards for the adventure section as soon as you hover over it the backside will be visible with another content. I learned better about pseudo elements and how to properly use them for cool effects. Like the button when hover over just scales massively up and then becomes 100% opaque. For the stories section I used a background video which is also responsive to screensize.
+
+**Thoughts:** The project is really cool and I learn a tonne of new stuff through the course. Pseudo Elements and when to use them. Some cutting edge properties like `backface-visibility` and `box-decoration-break` which treats an element when it's wrapped into a new row as two single elements and you can have a background color(for example) around both of them. And a whole lot more. For more goodies reference to the projects in the repo.
+
+**Link to work:** [Natours](https://github.com/drood87/natours)
