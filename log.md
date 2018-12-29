@@ -312,3 +312,11 @@ We declare an animation with the @keyframes keyword followed by the animation na
 **Thoughts:** The project is really cool and I learn a tonne of new stuff through the course. Pseudo Elements and when to use them. Some cutting edge properties like `backface-visibility` and `box-decoration-break` which treats an element when it's wrapped into a new row as two single elements and you can have a background color(for example) around both of them. And a whole lot more. For more goodies reference to the projects in the repo.
 
 **Link to work:** [Natours](https://github.com/drood87/natours)
+
+### Day 42: December 29 2018
+
+**Today's Progress**: I implemented the contact form and the footer. While doing that I learned how to make good looking custom radio buttons and still consider accessibility. The contact form has some cool effects for the hover, focus and active state. Also we can create a solid line when we work with linear gradients. I implemented what I've learned the past few days in my portfolio which looks now really sexy. Next up will be responsive design.
+
+**Thoughts:** The site and my portfolio look really neat and I learned a tonne the past days. I can now be pretty confident with pseudo classes and also have a good understanding of SCSS which makes CSS so much more fun to write.
+
+**Link to work:** [Natours](https://github.com/drood87/natours)
